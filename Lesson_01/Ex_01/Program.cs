@@ -35,7 +35,7 @@ namespace Ex_01
             bool d = SimpleNumber(n);
             if (d)
             {
-                Console.WriteLine("Число состовное");
+                Console.WriteLine("Число составное");
             }
             else
             {
